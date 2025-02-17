@@ -9,7 +9,7 @@ export default function Home() {
         <ThemeToggle />
       </div>
       <VideoList />
-    </main>
+    </main> 
   )
 }
 
